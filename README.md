@@ -1,5 +1,5 @@
 # yandex-plesk-backupRU
-![](https://img.shields.io/badge/ерсия-1.0.1-dark) ![](https://img.shields.io/badge/автор-trfoxs-blue) ![](https://img.shields.io/badge/профиль-semihbtr-green?logo=linkedin&style=flat-square) ![](https://shields.io/badge/license-MIT-informational) ![](https://img.shields.io/badge/русский-red)
+![](https://img.shields.io/badge/ерсия-1.0.1-dark) ![](https://img.shields.io/badge/автор-trfoxs-blue) ![](https://shields.io/badge/license-MIT-informational) ![](https://img.shields.io/badge/русский-red)
 
 Еженедельное резервное копирование в yandex
 
